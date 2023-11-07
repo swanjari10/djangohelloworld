@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Djangoshraddha'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_186C3164E6524A7887F86148D5D7DC83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF8FD885C0B246DF889137C76A506CD6 }}
